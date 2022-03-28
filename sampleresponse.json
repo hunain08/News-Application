@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 640,
+"articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Apple's New Studio Display Has 64GB of Onboard Storage",
+            "description": "New submitter Dru Nemeton shares a report from 9to5Mac: Apple's new Studio Display officially hit the market on Friday, and we continue to learn new tidbits about what exactly's inside the machine. While Apple touted that the Studio Display is powered by an A…",
+            "url": "https://hardware.slashdot.org/story/22/03/21/232200/apples-new-studio-display-has-64gb-of-onboard-storage",
+            "urlToImage": "https://a.fsdn.com/sd/topics/storage_64.png",
+            "publishedAt": "2022-03-22T00:45:00Z",
+            "content": "Apple's new Studio Display officially hit the market on Friday, and we continue to learn new tidbits about what exactly's inside the machine. While Apple touted that the Studio Display is powered by … [+1181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Mac Studio Storage Not User-Upgradeable Due to Software Block",
+            "description": "Despite being easily removable since it is not soldered down, the Mac Studio's SSD storage is not currently user-upgradeable due to a software block, YouTuber Luke Miani has discovered. MacRumors reports: Initial teardowns suggested that the Mac Studio's stor…",
+            "url": "https://hardware.slashdot.org/story/22/03/22/0026221/mac-studio-storage-not-user-upgradeable-due-to-software-block",
+            "urlToImage": "https://a.fsdn.com/sd/topics/mac_64.png",
+            "publishedAt": "2022-03-22T10:00:00Z",
+            "content": "Initial teardowns suggested that the Mac Studio's storage could be upgradeable since it is not soldered in place. Each Mac Studio contains two internal SSD slots, and the SSDs themselves can be freel… [+1098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketBeat"
+            },
+            "author": "Thomas Hughes",
+            "title": "The Three Most Upgraded Stocks In Q1 2022",
+            "description": "The analysts are a fickle bunch whose sentiment toward a stock can change at a moment's notice. As hard as it is to succeed by simply following the analysts and...",
+            "url": "https://www.marketbeat.com/originals/the-three-most-upgraded-stocks-in-q1-2022/",
+            "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-422806.jpeg",
+            "publishedAt": "2022-03-22T10:00:00Z",
+            "content": "Follow The Analysts To Three Winning Stocks \r\nThe analysts are a fickle bunch whose sentiment toward a stock can change at a moment's notice. As hard as it is to succeed by simply following the analy… [+3344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ottawa Sun"
+            },
+            "author": "Reuters",
+            "title": "Apple services including music, TV resume after outages - Ottawa Sun",
+            "description": "<ol><li>Apple services including music, TV resume after outages  Ottawa Sun\r\n</li><li>Apple online services like iMessage, iCloud and Apple Music are back online [Update]  MobileSyrup\r\n</li><li>Apple services including Maps, App Store and iCloud go DOWN in ma…",
+            "url": "https://ottawasun.com/news/world/apple-services-including-music-tv-resume-after-outages/wcm/8b1c9c5b-a39f-4655-8533-0f3f66581f5a",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/ottawasun/wp-content/uploads/2022/03/APPLESTORE-2021-12-27.jpg?quality=100&strip=all",
+            "publishedAt": "2022-03-22T02:29:19Z",
+            "content": "Article content\r\nApple said all its services, including the App Store, Apple TV and Apple Music, have resumed following an outage that started late afternoon on Monday.\r\nArticle content\r\nNearly a doz… [+1409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "El Recomendador",
+            "title": "Ojo a este ofertón del iPhone 11 a precio imbatible",
+            "description": "El iPhone 11 sigue siendo un terminal formidable. Han pasado dos años de su lanzamiento, pero sigue estado en lo más alto de la gama premium de smartphones. Y además, su hardware te garantiza una buena temporada de actualizaciones con todas las novedades de l…",
+            "url": "https://hipertextual.com/2022/03/iphone-11-en-oferta-en-amazon",
+            "urlToImage": "https://hipertextual.com/wp-content/uploads/2019/09/hipertextual-iphone-11-2019772090.jpeg",
+            "publishedAt": "2022-03-22T09:30:40Z",
+            "content": "El iPhone 11 sigue siendo un terminal formidable. Han pasado dos años de su lanzamiento, pero sigue estado en lo más alto de la gama premium de smartphones. Y además, su hardware te garantiza una bue… [+2350 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Napier Lopez",
+            "title": "Why is Apple’s Studio Display basically a giant iPad?",
+            "description": "Much like the tiny-but-beastly Mac Studio, the Apple Studio Display is the type of device only Apple could make. No, I’m not talking about the fancy metallic design, 5K resolution, nor its sextuple speaker system. Nor am I even making fun of the $1,600 price …",
+            "url": "https://thenextweb.com/news/apple-studio-display-giant-ipad",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FApple-Studio-Display-iPad.jpg&signature=23fa97019f945759eebdbce1d6144997",
+            "publishedAt": "2022-03-22T02:56:12Z",
+            "content": "Much like the tiny-but-beastly Mac Studio, the Apple Studio Display is the type of device only Apple could make.\r\nNo, Im not talking about the fancy metallic design, 5K resolution, nor its sextuple s… [+3267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Yorker"
+            },
+            "author": "Isaac Bashevis Singer",
+            "title": "Love and Magic; or, A Trip to the Circus",
+            "description": "Isaac Bashevis Singer writes about love, magic, the Kabbalah, and a forbidden trip to the circus, in Warsaw, during his childhood.",
+            "url": "https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus",
+            "urlToImage": "https://media.newyorker.com/photos/6238be7abb9e4c8f282d0854/16:9/w_1280,c_limit/Singer_A_Trip_To_The_Circus.jpg",
+            "publishedAt": "2022-03-22T10:00:00Z",
+            "content": "Looking back on my life, I can remember always being exceedingly curious about the unusual, the mysterious, the miraculous. My father constantly spoke about saints and wonder rabbis and the miracles … [+10957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Porsche plant(e) gemeinsame Projekte mit Apple",
+            "description": "Konzernchef Oliver Blume zufolge bleibt es zwischen dem Sportwagenhersteller nicht bei einer simplen CarPlay-Kooperation. Man sei \"auf gleicher Wellenlänge\".",
+            "url": "https://www.heise.de/news/Porsche-plant-e-gemeinsame-Projekte-mit-Apple-6598622.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/9/7/6/0/IMG_2333-58d9b8d46bf72643.jpg",
+            "publishedAt": "2022-03-22T09:39:00Z",
+            "content": "Porsche und Apple haben ein \"traditionell enges\" Verhältnis miteinander. Das betonte der CEO des Sportwagen- und SUV-Produzenten, Oliver Blume, bei einer Videokonferenz zur Bekanntgabe der Jahreszahl… [+1785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Knobloch",
+            "title": "Dienstag: Russlands Trennung vom Internet, Facebook & Instagram \"extremistisch\"",
+            "description": "Meta-Dienste in Russland verboten + Russlands Abschied vom Internet + Wärmerekorde an Nord- und Südpol + Breitband mit Defiziten + Streitfall Akku-Leistung",
+            "url": "https://www.heise.de/news/Dienstag-Russlands-Trennung-vom-Internet-Facebook-Instagram-extremistisch-6600164.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/9/1/2/8/3/Wochentage-source-sans-026f3854c4aa64bd.png",
+            "publishedAt": "2022-03-22T05:30:00Z",
+            "content": "Russlands Trennung von wichtigen Onlinediensten des Westens nach Beginn der Ukraine-Invasion war abrupt und weitgehend. Nun wurden Facebook und Instagram von den russischen Behörden vollständig block… [+3573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "What happened to Apple’s new Self Service Repair program? Is it still coming?",
+            "description": "Apple last year announced a new “Self Service Repair” program, which for the first time would allow consumers to buy parts of iPhone, iPad, and other Apple products to repair them themselves at home. While the company had promised that the program would be la…",
+            "url": "https://9to5mac.com/2022/03/21/what-happened-to-apples-new-self-service-repair-program-is-it-still-coming/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/apple-self-service-repair-inititaive.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-03-22T01:50:50Z",
+            "content": "Apple last year announced a new “Self Service Repair” program, which for the first time would allow consumers to buy parts of iPhone, iPad, and other Apple products to repair them themselves at home.… [+3246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple Studio Display’s power cable is removable, but it requires a special tool",
+            "description": "Apple Studio Display is now officially available in stores, and there are already multiple customers around the world who have gotten their hands on the product. Unlike the Pro Display XDR, Studio Display has a unique power connector that seems to be non-remo…",
+            "url": "https://9to5mac.com/2022/03/21/apple-studio-displays-power-cable-is-removable-but-it-requires-a-special-tool/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/Apple-Studio-Display-Power-Cord-Back.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-03-22T01:10:07Z",
+            "content": "Apple Studio Display is now officially available in stores, and there are already multiple customers around the world who have gotten their hands on the product. Unlike the Pro Display XDR, Studio Di… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Darryl Boxberger)",
+            "title": "Verizon expanding 5G Ultra Wideband to more cities",
+            "description": "Verizon has announced today that it has received early clearance to deploy its Ultra Wideband technology in more cities, including Washington, DC.In a press release released March 21, 2022, Verizon announced that it had received an early clearance to deploy i…",
+            "url": "https://appleinsider.com/articles/22/03/22/verizon-expanding-5g-ultra-wideband-to-more-cities",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/43110-83750-61800931-5673-42BD-873E-24BAA25D2702-xl.jpg",
+            "publishedAt": "2022-03-22T00:15:04Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "そうこ",
+            "title": "Appleサービス（iCloud・iMessage・マップなど）一時ダウン（現在は復旧済み）",
+            "description": "気づいた人もいるかと思いますが、Apple（アップル）が提供するサービスが一時的にダウンしていました。現在、すでに復旧済み、いつも通り稼働しています。システムに障害がでたのは、日本時間では本日3月22日の午前1時半から2時半ごろの1時間程度。",
+            "url": "https://www.gizmodo.jp/2022/03/apple-service-down.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/03/22/220322Apple-w960.jpeg",
+            "publishedAt": "2022-03-22T03:50:00Z",
+            "content": "Apple\r\n322121Apple PayiCloud DriveiCloudiCloudiCloudiCloudiMessageAppleTwitterApple!?\r\nAppApple MusicApple TV+BloombergAppleAppleApple\r\nApple"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "塚本直樹",
+            "title": "MacBook Air、新デザイン採用で今年こそ最高の買い時に？",
+            "description": "先日のApple（アップル）発表イベントにて、残念ながら発表されなかった「次期MacBook Air」。「M2はまだか!? 新デザインはまだか!?」というAppleファンの皆様の声が聞こえてきそうですが、もうしばしお待ちを。最新報告によれば、次期MacBook Airは新デザインを採用し今年後半に登場するそうですよ！",
+            "url": "https://www.gizmodo.jp/2022/03/macbook-air-new-design.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/03/22/macbookair_white-w960.jpeg",
+            "publishedAt": "2022-03-22T04:30:00Z",
+            "content": "M2\r\nAppleMacBook AirM2!? !?AppleMacBook Air\r\nBloombergMark GurmanAppleMacBook Air1416MacBook Pro2023M213MacBook Pro\r\n2020M1MacBook Air13MacBook ProMac miniM1M2\r\nSource: MacRumors"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "satomi",
+            "title": "12億円の巨額横領で刑事告訴されたApple元社員の家",
+            "description": "思ったより地味GoogleMapApple（アップル）に2008年12月から10年間勤務している間に会社の金を1000万ドル（約12億円）以上もだまし取った疑いで、カリフォルニア州マウンテンハウスに住む元社員のDhirendraPrasad容疑者（52）が17日、連邦検事とIRS特別捜査官に刑事告訴されました。北カリフォルニア地裁に提出された訴状によると、同容疑者は在任中、国際サービスサプライチェ",
+            "url": "https://www.gizmodo.jp/2022/03/252010.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/03/22/20220321apple-w960.png",
+            "publishedAt": "2022-03-22T05:00:00Z",
+            "content": "Apple20081210100012Dhirendra Prasad5217IRS\r\nApple\r\n2\r\n5120\r\n22PrasadPrasad\r\nPrasad5006Apple \r\nSources: DOJ via CBS, Apple3.0"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "そうこ",
+            "title": "忘れ物防止タグTile、アプリにストーカー対策機能を追加",
+            "description": "Image:Tile悪用は許しません！うっかり者にはありがたい忘れ物防止系アイテム。AppleのAirTagが、悪用防止のため今年にはいってアップデートされていますが、Tileもアプリにストーカー防止機能を追加しました。iOS/Androidどちらのアプリでも対応で、先週から順次配布されています。新しく加わった機能は「ScanandSecure」。これは、近くに不要なTileトラッカーがないかユー",
+            "url": "https://www.gizmodo.jp/2022/03/scan-and-secure-tile.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/03/21/220321antistalkingtile-w960.jpg",
+            "publishedAt": "2022-03-22T01:00:00Z",
+            "content": "AppleAirTagTileiOS/Android\r\nScan and SecureTileTile...BluetoothON\r\n1\r\nSource: Tile"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Gregori Pujol",
+            "title": "Profitez de 100€ de réduction immédiate sur l’iPhone 12 Mini chez Amazon !",
+            "description": "L'iPhone 12 Mini est le modèle le plus compact de la gamme des téléphones Apple sortis en fin d'année 2020. Toutefois, il ne fait pas de concession sur la performance et reste un modèle extrêmement intéressant. Il est aujourd'hui en promotion chez Amazon.\nPro…",
+            "url": "https://www.journaldugeek.com/bon-plan/profitez-de-100e-de-reduction-immediate-sur-liphone-12-mini-chez-amazon/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/11/productrediphone.jpg",
+            "publishedAt": "2022-03-22T08:45:36Z",
+            "content": "L'iPhone 12 Mini est le modèle le plus compact de la gamme des téléphones Apple sortis en fin d'année 2020. Toutefois, il ne fait pas de concession sur la performance et reste un modèle extrêmement i… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Tristan",
+            "title": "Moto : pour plus de sécurité, cette entreprise mise sur la réalité augmentée",
+            "description": "EyeLights a été fondée en 2016 avec une idée simple : sécuriser la vie des motards avec la réalité augmentée. \nMoto : pour plus de sécurité, cette entreprise mise sur la réalité augmentée",
+            "url": "https://www.journaldugeek.com/2022/03/22/moto-securite-realite-augmentee/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/03/eyelights-systeme.jpg",
+            "publishedAt": "2022-03-22T10:00:27Z",
+            "content": "EyeLights a été fondée en 2016 avec une idée simple : sécuriser la vie des motards avec la réalité augmentée.Depuis 2016, lentreprise française EyeLights travaille en région toulousaine pour rendre l… [+2424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "David Bernal Raspall",
+            "title": "Las Apple Store sí pueden cambiar el tipo de soporte de la Studio Display después de la compra",
+            "description": "Cuando compramos la Apple Studio Display tenemos la opción de elegir entre tres tipos de soporte. Tres tipos de soporte que, si bien a priori no son intercambiables, las Apple Store o los proveedores de servicios autorizados, sí pueden modificar después de la…",
+            "url": "https://www.applesfera.com/sobremesa/apple-store-pueden-cambiar-tipo-soporte-studio-display-despues-compra",
+            "urlToImage": "https://i.blogs.es/8c6710/mohamed-kerroudj-aehpgm5u3w8-unsplash/840_560.jpeg",
+            "publishedAt": "2022-03-22T09:08:56Z",
+            "content": "Cuando compramos la Apple Studio Display tenemos la opción de elegir entre tres tipos de soporte. Tres tipos de soporte que, si bien a priori no son intercambiables, las Apple Store o los proveedores… [+1067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Eduardo Archanco",
+            "title": "Algunos Mac antiguos añaden Oye Siri gracias al Apple Studio Display",
+            "description": "El nuevo Apple Studio Display tiene otro truco bajo su manga. Ya sabíamos que el monitor era capaz de usar Oye Siri al estar conectado a un Mac con conexión a internet, pero ahora se ha descubierto que esta capacidad va un paso más allá. El Apple Studio Displ…",
+            "url": "https://www.applesfera.com/accesorios/algunos-mac-antiguos-anaden-oye-siri-gracias-al-apple-studio-display",
+            "urlToImage": "https://i.blogs.es/5f81ed/mac-studio-display-oye-siri/840_560.jpeg",
+            "publishedAt": "2022-03-22T06:59:18Z",
+            "content": "El nuevo Apple Studio Display tiene otro truco bajo su manga. Ya sabíamos que el monitor era capaz de usar Oye Siri al estar conectado a un Mac con conexión a internet, pero ahora se ha descubierto q… [+1274 chars]"
+        }
+    ]
+}
